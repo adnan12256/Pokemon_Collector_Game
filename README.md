@@ -1,5 +1,5 @@
 # POKEMON COLLECTOR GAME
-Welcom to my game! This is a simple game I'm making using inspiration from the games I played on the browser growing up.
+Welcome to my game! This is a simple game I'm making using inspiration from the games I played on the browser growing up.
 I will try to add more functionalities to this game as I learn new things and make more time. Right now I am currently 
 working, so I only code this when I'm really bored.
 
